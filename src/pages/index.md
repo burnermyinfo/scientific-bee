@@ -29,10 +29,6 @@ sections:
   subtitle: "Rutrum facilisis. Class aptent taciti sociosqu  \nlitora torquent et
     conubia etiam nostra."
   symbol_display:
-  - title: Lorem
-    icon: fa-code
-  - title: Ipsum
-    icon: fa-cog
   - title: Dolor
     icon: fa-diamond
   - title: Feugiat
